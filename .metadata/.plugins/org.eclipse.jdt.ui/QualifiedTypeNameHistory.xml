@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="typedesign.pattern_design_begin.Duck"/>
+<fullyQualifiedTypeName name="typedesign.FlyWithWings"/>
+<fullyQualifiedTypeName name="typedesign.FlyNoWay"/>
+<fullyQualifiedTypeName name="typedesign.Quack"/>
+<fullyQualifiedTypeName name="typedesign.FlyBehavior"/>
+<fullyQualifiedTypeName name="typedesign.Duck"/>
+<fullyQualifiedTypeName name="typedesign.ModelDuck"/>
+<fullyQualifiedTypeName name="typedesign.FlyRocketPowered"/>
+<fullyQualifiedTypeName name="typedesign.QuackBehavior"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
+<fullyQualifiedTypeName name="java.lang.Void"/>
+<fullyQualifiedTypeName name="Observer_design.Observer"/>
+<fullyQualifiedTypeName name="Observer_design.DisplayElement"/>
+<fullyQualifiedTypeName name="Observer_design.CurrentConditionsDisplay"/>
+<fullyQualifiedTypeName name="Observer_design.WeatherData"/>
+<fullyQualifiedTypeName name="Observer_design.Subject"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

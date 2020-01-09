@@ -1,0 +1,24 @@
+package typedesign;
+
+public abstract  class Duck() {
+		
+		FlyBehavor flyBehavior;
+		QuackBehavor quackBehavior;
+		public Duck() {
+			
+		}
+		public abstract void display() ;
+		public void performFly() {
+			flyBehavior.fly();			
+		}
+		public void performQuack() {
+			quackBehavior.quack();
+				
+		}
+		public void swim() {
+			System.out.println("ALL ducks float, even decoys");
+				
+		}
+		
+	}
+
